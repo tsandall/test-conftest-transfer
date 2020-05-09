@@ -1,4 +1,4 @@
-module github.com/open-policy-agent/conftest
+module github.com/tsandall/test-conftest-transfer
 
 go 1.13
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/open-policy-agent/conftest/policy"
+	"github.com/tsandall/test-conftest-transfer/policy"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

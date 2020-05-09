@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	
-	"github.com/open-policy-agent/conftest/plugin"
+	"github.com/tsandall/test-conftest-transfer/plugin"
 	"github.com/spf13/cobra"
 )
 

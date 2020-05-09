@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/open-policy-agent/conftest/downloader"
+	"github.com/tsandall/test-conftest-transfer/downloader"
 )
 
 // Download downloads the given policies into the given destination

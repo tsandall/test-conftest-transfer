@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/open-policy-agent/conftest/parser/docker"
-	"github.com/open-policy-agent/conftest/parser/yaml"
-	"github.com/open-policy-agent/conftest/policy"
+	"github.com/tsandall/test-conftest-transfer/parser/docker"
+	"github.com/tsandall/test-conftest-transfer/parser/yaml"
+	"github.com/tsandall/test-conftest-transfer/policy"
 	"github.com/open-policy-agent/opa/storage/inmem"
 )
 

@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/open-policy-agent/conftest/parser"
-	"github.com/open-policy-agent/conftest/policy"
+	"github.com/tsandall/test-conftest-transfer/parser"
+	"github.com/tsandall/test-conftest-transfer/policy"
 	"github.com/open-policy-agent/opa/ast"
 	"github.com/open-policy-agent/opa/rego"
 	"github.com/open-policy-agent/opa/storage"

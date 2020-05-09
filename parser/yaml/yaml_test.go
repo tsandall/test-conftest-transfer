@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/open-policy-agent/conftest/parser/yaml"
+	"github.com/tsandall/test-conftest-transfer/parser/yaml"
 )
 
 func TestYAMLParser(t *testing.T) {

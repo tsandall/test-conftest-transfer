@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/open-policy-agent/conftest/internal/commands"
+	"github.com/tsandall/test-conftest-transfer/internal/commands"
 )
 
 func main() {

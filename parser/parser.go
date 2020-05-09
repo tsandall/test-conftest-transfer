@@ -3,17 +3,17 @@ package parser
 import (
 	"fmt"
 
-	"github.com/open-policy-agent/conftest/parser/cue"
-	"github.com/open-policy-agent/conftest/parser/docker"
-	"github.com/open-policy-agent/conftest/parser/edn"
-	"github.com/open-policy-agent/conftest/parser/hcl1"
-	"github.com/open-policy-agent/conftest/parser/hcl2"
-	"github.com/open-policy-agent/conftest/parser/hocon"
-	"github.com/open-policy-agent/conftest/parser/ini"
-	"github.com/open-policy-agent/conftest/parser/toml"
-	"github.com/open-policy-agent/conftest/parser/vcl"
-	"github.com/open-policy-agent/conftest/parser/xml"
-	"github.com/open-policy-agent/conftest/parser/yaml"
+	"github.com/tsandall/test-conftest-transfer/parser/cue"
+	"github.com/tsandall/test-conftest-transfer/parser/docker"
+	"github.com/tsandall/test-conftest-transfer/parser/edn"
+	"github.com/tsandall/test-conftest-transfer/parser/hcl1"
+	"github.com/tsandall/test-conftest-transfer/parser/hcl2"
+	"github.com/tsandall/test-conftest-transfer/parser/hocon"
+	"github.com/tsandall/test-conftest-transfer/parser/ini"
+	"github.com/tsandall/test-conftest-transfer/parser/toml"
+	"github.com/tsandall/test-conftest-transfer/parser/vcl"
+	"github.com/tsandall/test-conftest-transfer/parser/xml"
+	"github.com/tsandall/test-conftest-transfer/parser/yaml"
 )
 
 // ValidInputs returns string array in order to passing valid input types to viper

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/open-policy-agent/conftest/downloader"
+	"github.com/tsandall/test-conftest-transfer/downloader"
 )
 
 // Download downloads the given plugin into the cache
