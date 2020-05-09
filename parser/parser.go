@@ -19,6 +19,7 @@ import (
 // ValidInputs returns string array in order to passing valid input types to viper
 func ValidInputs() []string {
 	return []string{
+		"DEADEBEEF",
 		"toml",
 		"tf",
 		"hcl",
