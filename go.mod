@@ -19,7 +19,7 @@ require (
 	github.com/moby/buildkit v0.3.3
 	github.com/olekukonko/tablewriter v0.0.4
 	github.com/open-policy-agent/opa v0.19.1
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/viper v1.5.0
 	github.com/zclconf/go-cty v1.2.0
